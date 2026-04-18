@@ -1,0 +1,7 @@
+title: 中島 淳平 (Junpei Nakashima)
+author: 中島 淳平
+description: 中島 淳平の自己紹介ページです。
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
