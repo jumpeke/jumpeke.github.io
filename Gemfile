@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll"
 gem "minima"
-gem "github-pages", group: :jekyll_plugins
-gem "jekyll-feed"
-gem "jekyll-seo-tag"
+gem "base64"
+gem "bigdecimal"
+gem "webrick"
+gem "kramdown-parser-gfm"
